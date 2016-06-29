@@ -1,0 +1,3 @@
+function hideStuff() {
+    $("#test").toggle();
+}
